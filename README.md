@@ -26,21 +26,21 @@ TOOLS USED
 LEASSON LEARNED
 
 
-1.I learned how to deploy Graylog, MongoDB, and OpenSearch using Docker for a clean and efficient setup.
+1 I learned how to deploy Graylog, MongoDB, and OpenSearch using Docker for a clean and efficient setup.
 
-2.I understood how centralized log management works and why it is essential for monitoring and security.
+2 I understood how centralized log management works and why it is essential for monitoring and security.
 
-3.I learned how to configure rsyslog on a Linux client to forward system logs to Graylog.
+3 I learned how to configure rsyslog on a Linux client to forward system logs to Graylog.
 
-4.I practiced creating and managing Graylog inputs to receive logs from different sources.
+4 I practiced creating and managing Graylog inputs to receive logs from different sources.
 
-5.I learned how to use the Graylog web interface to search, filter, and analyze incoming log data.
+5 I learned how to use the Graylog web interface to search, filter, and analyze incoming log data.
 
-6.I understood how to verify log forwarding using test messages like the logger command.
+6 I understood how to verify log forwarding using test messages like the logger command.
 
-7.I learned how to troubleshoot issues by checking container status, service status, and network connectivity.
+7 I learned how to troubleshoot issues by checking container status, service status, and network connectivity.
 
-8.I gained hands-on experience in managing log streams, message details, and dashboards in Graylog.
+8 I gained hands-on experience in managing log streams, message details, and dashboards in Graylog.
 
 
 
