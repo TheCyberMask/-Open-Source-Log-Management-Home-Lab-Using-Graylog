@@ -38,7 +38,11 @@ LEASSON LEARNED
 
 8.I gained hands-on experience in managing log streams, message details, and dashboards in Graylog.
 
-[Open Source Log Management Home Lab Using Graylog](https://github.com/TheCyberMask/Threat-Hunting-Home-Lab-using-Velociraptor/blob/main/Threat%20Hunting%20Home%20Lab%20using%20Velociraptor.pdf)
+
+REPORT
+
+
+[Open Source Log Management Home Lab Using Graylog](https://github.com/TheCyberMask/-Open-Source-Log-Management-Home-Lab-Using-Graylog/blob/main/Open%20Source%20Log%20Management%20Home%20Lab%20Using%20Graylog.pdf)
 
 
 
