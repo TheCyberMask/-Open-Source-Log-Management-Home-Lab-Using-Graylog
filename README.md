@@ -8,7 +8,6 @@ The objective of building an Open Source Log Management Home-Lab using Graylog i
 
 
 TOOLS USED 
-
 .Ubuntu Desktop
 .Ubuntu Server
 .VirtualBox
