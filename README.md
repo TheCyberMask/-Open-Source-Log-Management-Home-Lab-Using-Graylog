@@ -4,10 +4,15 @@ An open-source lab setup that uses Graylog to centrally collect and analyze logs
 
 OBJECTIVE
 
+
+
 The objective of building an Open Source Log Management Home-Lab using Graylog is to create a fully functional centralized logging environment where logs from multiple systems are collected, parsed, enriched, stored, monitored, and analyzed through Graylog along with its supporting components like MongoDB and OpenSearch, enabling hands-on experience in configuring log inputs, pipelines, alerts, dashboards, retention policies, and real-world scenarios for threat hunting, troubleshooting, auditing, and understanding enterprise-level log management workflows in a safe self-hosted environment.
 
 
 TOOLS USED 
+
+
+
 .Ubuntu Desktop
 .Ubuntu Server
 .VirtualBox
@@ -36,6 +41,8 @@ LEASSON LEARNED
 7.I learned how to troubleshoot issues by checking container status, service status, and network connectivity.
 
 8.I gained hands-on experience in managing log streams, message details, and dashboards in Graylog.
+
+
 
 
 REPORT
