@@ -2,14 +2,14 @@
 An open-source lab setup that uses Graylog to centrally collect and analyze logs from different systems for monitoring and security practice.
 
 
-OBJECTIVE
+## OBJECTIVE
 
 
 
 The objective of building an Open Source Log Management Home-Lab using Graylog is to create a fully functional centralized logging environment where logs from multiple systems are collected, parsed, enriched, stored, monitored, and analyzed through Graylog along with its supporting components like MongoDB and OpenSearch, enabling hands-on experience in configuring log inputs, pipelines, alerts, dashboards, retention policies, and real-world scenarios for threat hunting, troubleshooting, auditing, and understanding enterprise-level log management workflows in a safe self-hosted environment.
 
 
-TOOLS USED 
+## TOOLS USED 
 
 
 
@@ -23,7 +23,7 @@ TOOLS USED
 .Syslog
 
 
-LEASSON LEARNED
+## LEASSON LEARNED
 
 
 1 I learned how to deploy Graylog, MongoDB, and OpenSearch using Docker for a clean and efficient setup.
@@ -45,7 +45,7 @@ LEASSON LEARNED
 
 
 
-REPORT
+## REPORT
 
 
 [Open Source Log Management Home Lab Using Graylog](https://github.com/TheCyberMask/-Open-Source-Log-Management-Home-Lab-Using-Graylog/blob/main/Open%20Source%20Log%20Management%20Home%20Lab%20Using%20Graylog.pdf)
