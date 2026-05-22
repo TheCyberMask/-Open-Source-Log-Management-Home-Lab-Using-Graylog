@@ -11,16 +11,16 @@ The objective of building an Open Source Log Management Home-Lab using Graylog i
 
 ## TOOLS USED 
 
+Ubuntu Desktop <br>
+Ubuntu Server <br>
+VirtualBox <br>
+Docker <br>
+Graylog <br>
+mongoDB <br>
+Elasticsearch <br>
+Syslog
 
 
-.Ubuntu Desktop
-.Ubuntu Server
-.VirtualBox
-.Docker
-.Graylog
-.mongoDB
-.Elasticsearch
-.Syslog
 
 
 ## LEASSON LEARNED
